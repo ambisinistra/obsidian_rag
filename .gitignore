@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQL
+*.sql
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Project-specific files
+second_brain/
+archive/
+
+# Sensitive data
+.env
+
+# Logs and temporary files
+*.log
+tmp/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
